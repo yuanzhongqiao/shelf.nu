@@ -1,51 +1,45 @@
-# Shelf.nu
-
-<a href="https://www.shelf.nu/" target="_blank">
-<img width="100%" src="./public/static/images/readme-cover.jpg" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">货架.nu</font></font></h1><a id="user-content-shelfnu" class="anchor" aria-label="永久链接：Shelf.nu" href="#shelfnu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a href="https://www.shelf.nu/" rel="nofollow">
+<img width="100%" src="/Shelf-nu/shelf.nu/raw/main/public/static/images/readme-cover.jpg" style="max-width: 100%;">
 </a>
-<h4 align="center">
-✨ Open Source Asset Management Infrastructure for everyone. ✨
-</h4>
-<p align="center" >
-Shelf 🏷️ Asset Management infrastructure for absolutely everyone (open source).<br/> <br/>
-Shelf is a simple and visual asset management and location tracking system that allows people to track their physical assets with ease.
+<div class="markdown-heading" dir="auto"><h4 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+✨ 适合所有人的开源资产管理基础设施。 ✨
+</font></font></h4><a id="user-content--open-source-asset-management-infrastructure-for-everyone-" class="anchor" aria-label="永久链接：✨ 适合所有人的开源资产管理基础设施。 ✨
+" href="#-open-source-asset-management-infrastructure-for-everyone-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+Shelf 🏷️ 适合所有人的资产管理基础设施（开源）。</font></font><br> <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+Shelf 是一个简单、可视化的资产管理和位置跟踪系统，使人们可以轻松跟踪他们的实物资产。
+</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心功能和优点💫</font></font></h2><a id="user-content-core-features-and-benefits-" class="anchor" aria-label="永久链接：核心功能和优点💫" href="#core-features-and-benefits-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Shelf，您可以为您拥有的任何物品拍照并将其存储在您自己的数据库中。从那里，您可以生成一个可打印的代码 (QR)，您可以将其标记到该项目上，以便将来轻松识别和定位。 Shelf 有一个方便的代码打印区域，您可以在 A4 不干胶纸上添加尽可能多的二维码。您还可以添加有关该商品的详细信息，包括购买日期、购买价格、保修信息等。</font></font></p>
+<div align="left" dir="auto">
+<p align="center" dir="auto">
+    <a href="https://www.shelf.nu/?ref=github" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="https://github.com/Shelf-nu/shelf.nu/tree/main/docs"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•
+    </font></font><a href="https://discord.gg/gdPMsSzqCS" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的社区</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">• 
+    </font></font><a href="https://twitter.com/ShelfQR/?ref=github" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Twitter</font></font></b></a>
 </p>
-
-## Core Features and Benefits 💫
-
-With Shelf, you can take a picture of any item you own and store it in your own database. From there, you can generate a printable code (QR) that you can tag onto the item, making it easy to identify and locate in the future. Shelf has a handy code printing area where you can add as many QR codes as you can on an A4 sticker paper sheet. You can also add detailed information about the item, including its purchase date, purchase price, warranty information, and more.
-
-<div align="left">
-
-<p align="center">
-    <a href="https://www.shelf.nu/?ref=github" target="_blank"><b>Website</b></a> •
-    <a href="https://github.com/Shelf-nu/shelf.nu/tree/main/docs" target="_blank"><b>Documentation</b></a> •
-    <a href="https://discord.gg/gdPMsSzqCS" target="_blank"><b>Join our Community</b></a> • 
-    <a href="https://twitter.com/ShelfQR/?ref=github" target="_blank"><b>Twitter</b></a>
-</p>
-
-<div align = "center">
-    
-[![Shelf.nu Discord](https://dcbadge.vercel.app/api/server/gdPMsSzqCS)](https://discord.gg/gdPMsSzqCS)
-
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://discord.gg/gdPMsSzqCS" rel="nofollow"><img src="https://camo.githubusercontent.com/571f27aa08990f53aa0d27d8ab0f7cd7185c4e411af10c9a361e5c155164add6/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f6764504d73537a714353" alt="Shelf.nu 不和谐" data-canonical-src="https://dcbadge.vercel.app/api/server/gdPMsSzqCS" style="max-width: 100%;"></a></p>
 </div>
-
-### Once your assets are online, you will be able to:
-
-- Generate printable PDFs sheets from assets you select, so you can stick them onto anything
-- Check the last known location of your assets
-- Instant Search through your assets database
-- Use 'lost mode' for emergencies (offer a bounty for a return of an item)
-- Get notified of assets you are not using
-- Share your asset vault with other users
-
-### Use Shelf alone, or as a team. And, these questions will be a thing of the past.
-
-- Who was the last person that took X,Y or Z?
-- What gear does X have currently?
-- Which assets did we appoint to our team member abroad?
-- What do we have in our storage facility now?
-
-### Looking for contributing in Shelf?
-
-- check out our [contributing guidelines](./CONTRIBUTING.md)
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一旦您的资产上线，您将能够：</font></font></h3><a id="user-content-once-your-assets-are-online-you-will-be-able-to" class="anchor" aria-label="永久链接：一旦您的资产上线，您将能够：" href="#once-your-assets-are-online-you-will-be-able-to"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从您选择的资源生成可打印的 PDF 表，以便您可以将它们粘贴到任何东西上</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检查您资产的最后已知位置</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过您的资产数据库即时搜索</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在紧急情况下使用“丢失模式”（提供返还物品的奖励）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取您未使用的资产的通知</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与其他用户共享您的资产库</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单独使用 Shelf，或作为团队使用。而且，这些问题都将成为过去。</font></font></h3><a id="user-content-use-shelf-alone-or-as-a-team-and-these-questions-will-be-a-thing-of-the-past" class="anchor" aria-label="永久链接：单独使用 Shelf，或作为团队使用。而且，这些问题都将成为过去。" href="#use-shelf-alone-or-as-a-team-and-these-questions-will-be-a-thing-of-the-past"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后拿走 X、Y 或 Z 的人是谁？</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X目前有什么装备？</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们为海外团队成员指定了哪些资产？</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的存储设施里现在有什么？</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想要在 Shelf 中做出贡献吗？</font></font></h3><a id="user-content-looking-for-contributing-in-shelf" class="anchor" aria-label="永久链接：想在 Shelf 中做出贡献吗？" href="#looking-for-contributing-in-shelf"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的</font></font><a href="/Shelf-nu/shelf.nu/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a></li>
+</ul>
+</div></article></div>
